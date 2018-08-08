@@ -1,0 +1,14 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tyhe12/electron-app.git",
+  "author": "Tianyi",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^2.0.6"
+  }
+}
